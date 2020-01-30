@@ -6,6 +6,8 @@
   Desafio 1: Conceitos do NodeJS
 </h3>
 
+<blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
+
 ## :rocket: Sobre o desafio
 
 Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [Express](https://expressjs.com/pt-br/).
